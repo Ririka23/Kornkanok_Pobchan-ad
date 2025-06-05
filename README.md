@@ -48,13 +48,13 @@ I'm **Kornkanok Pobchan-ad**, a passionate **AI Developer, Python Developer, Dat
 ---
 
 ## 📂 Featured Projects
-
+<!---
 > ⚠️ Note: Some projects cannot share full source code due to internship or company confidentiality. Summaries, images, or diagrams are provided where possible.
-
-- [`Smart Waste Bin`](#) — AI-powered trash bin using computer vision to classify waste.
-- [`Face Recognition Attendance`](#) — Facial recognition-based employee attendance system.
-- [`IoT Cashier System`](#) — A smart cashier prototype using IoT + ML sensors.
-- [`LINE Chatbot – Water Quality`](#) — Chatbot to detect phosphate/ammonia color in hospital usage.
+-->
+- [`Smart Waste Bin`] — AI-powered trash bin using computer vision to classify waste.
+- [`Face Recognition Attendance`] — Facial recognition-based employee attendance system.
+- [`IoT Cashier System`] — A smart cashier prototype using IoT + ML sensors.
+- [`LINE Chatbot – Water Quality`] — Chatbot to detect phosphate/ammonia color in hospital usage.
 
 ---
 
