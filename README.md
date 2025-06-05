@@ -108,12 +108,12 @@ I'm **Kornkanok Pobchan-ad**, a passionate **AI Developer, Python Developer, Dat
   Faculty of Applied Artificial Intelligence and Smart Technology
 
 ---
-
+<!---
 ## 📄 Resume
 - [📥 Download My Resume (PDF)](./Kornkanok_Pobchanad_Resume.pdf)
 
 ---
-
+-->
 ## 🔗 Let's Connect
 - 📫 Email: **piano.kornkanok@gmail.com**
 - 💼 LinkedIn: [Kornkanok Pobchan-ad](https://www.linkedin.com/in/kornkanok-pobchan-ad-1246a7360)
