@@ -23,7 +23,7 @@ I'm **Kornkanok Pobchan-ad**, a passionate **AI Developer, Python Developer, Dat
 
 ---
 
-## 🧑‍💼 Work Experience
+## 🧑‍💼 Experience
 
 ### Internship | May – Dec 2024  
 **AI Developer @ GREEN HUB CO., LTD.**
@@ -32,6 +32,7 @@ I'm **Kornkanok Pobchan-ad**, a passionate **AI Developer, Python Developer, Dat
 - 📦 *IoT Notification System* — Sent real-time alerts upon package purchase via IoT.
 - 🌐 *Company Website (React.js)* — Developed the company frontend using React.
 
+### Work Experience 
 ### 2024  
 **LINE Chatbot – Water Quality Detection**  
 - 🤖 Built a LINE chatbot for water quality detection (phosphate & ammonia).
